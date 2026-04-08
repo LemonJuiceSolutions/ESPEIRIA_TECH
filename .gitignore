@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+.export/
+.venv_export/
+ESPEIIRIA_TECH.pdf
+ESPEIIRIA_TECH.pptx
